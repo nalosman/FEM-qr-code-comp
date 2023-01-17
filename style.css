@@ -53,6 +53,7 @@ img {
 
 .card-info {
   margin-top: 1.5rem;
+  text-align: center;
 }
 
 h2 {
@@ -63,8 +64,10 @@ h2 {
 }
 
 p {
-  font-size: 0.9rem;
+  font-size: 1rem;
+  letter-spacing: 0.4px;
   color: var(--grayishblue);
+  line-height: 18.9px;
 
   margin-top: 1rem;
 }
